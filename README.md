@@ -228,7 +228,7 @@ Average Distance
 
 ### Product & Inventory Analytics
 
-![Product Analytics](Dashboard%20Screenshots/Product_Inventory.png)
+![Product Analytics](Dashboard%20Screenshots/Product_Inventory_Analytics.png)
 
 ---
 
