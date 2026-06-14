@@ -257,7 +257,7 @@ Average Distance
 
 🔗 LinkedIn: [www.linkedin.com/in/sachindevarajan](http://www.linkedin.com/in/sachindevarajan)
 
-📧 Email: sachindevarajan7@gmail.com(mailto:sachindevarajan7@gmail.com)
+📧 Email: [sachindevarajan7@gmail.com](mailto:sachindevarajan7@gmail.com)
 
 ---
 
