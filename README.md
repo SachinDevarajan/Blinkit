@@ -216,27 +216,37 @@ Average Distance
 
 ### Executive Overview
 
-<img width="100%" src="dashboard/dashboard-1.png">
+![Executive Overview](Dashboard%20Screenshots/executive-overview.png)
+
+---
 
 ### Customer Analytics
 
-<img width="100%" src="dashboard/dash - 2.png">
+![Customer Analytics](Dashboard%20Screenshots/customer-analytics.png)
+
+---
 
 ### Product & Inventory Analytics
 
-<img width="100%" src="dashboard/dash -3.png">
+![Product Analytics](Dashboard%20Screenshots/product-inventory.png)
+
+---
 
 ### Delivery Analytics
 
-<img width="100%" src="dashboard/dash - 4.png">
+![Delivery Analytics](Dashboard%20Screenshots/delivery-analytics.png)
+
+---
 
 ### Marketing Analytics
 
-<img width="100%" src="dashboard/dash - 5.png">
+![Marketing Analytics](Dashboard%20Screenshots/marketing-analytics.png)
+
+---
 
 ### Business Overview
 
-<img width="100%" src="dashboard/overview.png">
+![Business Overview](Dashboard%20Screenshots/business-overview.png)
 
 ---
 
